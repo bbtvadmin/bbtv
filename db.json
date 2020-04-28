@@ -9,6 +9,6 @@
     { "id": 2, "body": "some comment", "postId": 1 }
   ],
   "ContactUs": {
-    "id": 1,"msg":"For assistance, please contact Blockbuster TV Support at\r\n\r\help.blockbustertv@outlook.com\r\n\r\nThank You."
+    "id": 1,"msg":"For assistance, please contact Blockbuster TV Support at\r\n\r\n help.blockbustertv@outlook.com \r\n\r\nThank You."
   }
 }
