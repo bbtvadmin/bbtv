@@ -3,10 +3,9 @@
     { "id": "800.0", "file": "https:\/\/dl.dropboxusercontent.com\/s\/urqdvln056zj0rj\/BlockbusterTV_SYT_Latest.apk" },
     { "id": "700.0", "file": "https:\/\/dl.dropboxusercontent.com\/s\/urqdvln056zj0rj\/BlockbusterTV_SYT_Latest.apk" }
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
+  "getnewappinfo": {
+     "id": 1, "info": "some comment"
+  },
   "getcontactinfo": {
     "id":"1","msg":"For assistance, please contact Blockbuster TV support email\r\n\r\nhelp.blockbustertv@outlook.com\r\n\r\nThank You."
   }
