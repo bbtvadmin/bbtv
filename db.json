@@ -1,8 +1,8 @@
 {
   "updaterequest": [
-    { "id": "801", "file": "http://google.com/apk.apk"},
-    { "id": "802", "file": "http://google.com/apk2.apk"},
-    { "id": "803", "file": "http://google.com/apk3.apk"}
+    { "id": "801", "file": "http:\/\/google.com\/apk.apk"},
+    { "id": "802", "file": "http:\/\/google.com\/apk2.apk"},
+    { "id": "803", "file": "http:\/\/google.com\/apk3.apk"}
   ],
   "comments": [
     { "id": "1", "body": "some comment", "postId": 1 },
