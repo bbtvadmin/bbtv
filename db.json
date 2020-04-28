@@ -1,8 +1,8 @@
 {
   "updaterequest": [
     { "801":[{"title": "Post 1" }]},
-    { "801":[{"title": "Post 1" }]},,
-    { "801":[{"title": "Post 1" }]}
+    { "802":[{"title": "Post 2" }]},,
+    { "803":[{"title": "Post 3" }]}
   ],
   "comments": [
     { "id": "1", "body": "some comment", "postId": 1 },
