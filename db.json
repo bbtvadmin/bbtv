@@ -8,7 +8,7 @@
     { "id": 1, "body": "some comment", "postId": 1 },
     { "id": 2, "body": "some comment", "postId": 1 }
   ],
-  "profile": {
-    "name": "typicode"
+  "getcontactinfo": {
+    {"id":"1","msg":"For any kind of assistance. Please contact us at our support email address.\r\n\r\ninfo@androidhdbox.com\r\n\r\nthanks."}
   }
 }
