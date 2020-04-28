@@ -1,8 +1,4 @@
 {
-  "comments": [
-    { "id": "1", "body": "some comment", "postId": 1 },
-    { "id": "2", "body": "some comment", "postId": 1 }
-  ],
   "getcontactinfo": {
     "id": "1","msg":"For assistance, please contact Blockbuster TV support email at\r\n\r\nhelp.blockbustertv@outlook.com\r\n\r\nThank You."
   }
