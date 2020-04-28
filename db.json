@@ -9,6 +9,6 @@
     { "id": 2, "body": "some comment", "postId": 1 }
   ],
   "getcontactinfo": {
-    {"id":"1","msg":"For any kind of assistance. Please contact us at our support email address.\r\n\r\ninfo@androidhdbox.com\r\n\r\nthanks."}
+    "id":"1","msg":"For assistance, please contact Blockbuster TV support email\r\n\r\nhelp.blockbustertv@outlook.com\r\n\r\nThank You."
   }
 }
